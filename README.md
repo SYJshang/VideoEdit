@@ -17,15 +17,18 @@
 
 ----------------------------------------
 
-
-<img src="https://github.com/SYJshang/VideoEdit/blob/master/1.png?raw=true" width="40%" height="40%" alt="image"/>
-<img src="https://github.com/SYJshang/VideoEdit/blob/master/2.png?raw=true" width="40%" height="40%" alt="image"/>
-<img src="https://github.com/SYJshang/VideoEdit/blob/master/3.png?raw=true" width="40%" height="40%" alt="image"/>
-<img src="https://github.com/SYJshang/VideoEdit/blob/master/4.png?raw=true" width="40%" height="40%" alt="image"/>
-<img src="https://github.com/SYJshang/VideoEdit/blob/master/5.png?raw=true" width="40%" height="40%" alt="image"/>
-<img src="https://github.com/SYJshang/VideoEdit/blob/master/6.png?raw=true" width="40%" height="40%" alt="image"/>
-
-
+<table>
+    <tr>
+        <td><center><img src="https://github.com/SYJshang/VideoEdit/blob/master/1.png?raw=true"></center></td>
+        <td ><center><img src="https://github.com/SYJshang/VideoEdit/blob/master/2.png?raw=true"></center> </td>
+	<td ><center><img src="https://github.com/SYJshang/VideoEdit/blob/master/3.png?raw=true"></center> </td>
+    </tr>
+    <tr>
+        <td><center><img src="https://github.com/SYJshang/VideoEdit/blob/master/4.png?raw=true"></center></td>
+        <td ><center><img src="https://github.com/SYJshang/VideoEdit/blob/master/5.png?raw=true"></center> </td>
+	<td ><center><img src="https://github.com/SYJshang/VideoEdit/blob/master/6.png?raw=true"></center> </td>
+    </tr>
+</table>
 
 
 
