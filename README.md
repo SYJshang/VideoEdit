@@ -19,7 +19,7 @@
 
 
 
-![image](https://github.com/SYJshang/VideoEdit/blob/master/1.png?raw=true)
+![image -w100](https://github.com/SYJshang/VideoEdit/blob/master/1.png?raw=true)
 
 ![image](https://github.com/SYJshang/VideoEdit/blob/master/2.png?raw=true)
 
